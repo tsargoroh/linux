@@ -1,4 +1,4 @@
-#battery.sh<br />
+#battery.sh<br /><br />
 simple bash script for displaying battery status when called (for example if the device is laptop)
 - download to directory /x/y/z      #any directory you want
 - mv battery.sh battery             #renaming
